@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D6411E51-1B90-4173-AD78-929497CB8D81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MongoTest/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MongoTest/Controllers/ValuesController.cs" Line="82" Column="19" />
+      <File FileName="MongoTest/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MongoTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

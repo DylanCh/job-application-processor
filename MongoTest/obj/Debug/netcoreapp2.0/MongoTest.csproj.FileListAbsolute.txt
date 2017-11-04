@@ -1,0 +1,10 @@
+/Users/aaa/Projects/MongoTest/MongoTest/obj/Debug/netcoreapp2.0/MongoTest.csproj.CoreCompileInputs.cache
+/Users/aaa/Projects/MongoTest/MongoTest/obj/Debug/netcoreapp2.0/MongoTest.AssemblyInfoInputs.cache
+/Users/aaa/Projects/MongoTest/MongoTest/obj/Debug/netcoreapp2.0/MongoTest.AssemblyInfo.cs
+/Users/aaa/Projects/MongoTest/MongoTest/bin/Debug/netcoreapp2.0/MongoTest.deps.json
+/Users/aaa/Projects/MongoTest/MongoTest/bin/Debug/netcoreapp2.0/MongoTest.runtimeconfig.json
+/Users/aaa/Projects/MongoTest/MongoTest/bin/Debug/netcoreapp2.0/MongoTest.runtimeconfig.dev.json
+/Users/aaa/Projects/MongoTest/MongoTest/bin/Debug/netcoreapp2.0/MongoTest.dll
+/Users/aaa/Projects/MongoTest/MongoTest/bin/Debug/netcoreapp2.0/MongoTest.pdb
+/Users/aaa/Projects/MongoTest/MongoTest/obj/Debug/netcoreapp2.0/MongoTest.dll
+/Users/aaa/Projects/MongoTest/MongoTest/obj/Debug/netcoreapp2.0/MongoTest.pdb
